@@ -16,11 +16,11 @@ const config = {
   url: 'https://Anysh88.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docusaurus/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Anush88', // Usually your GitHub org/user name.
+  organizationName: 'Anysh88', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Anysh88/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Anysh88/docusaurus/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Anysh88/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Anysh88/docusaurus/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
